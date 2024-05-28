@@ -107,3 +107,9 @@ cython_debug/
 
 # local training outputs
 outputs/*
+
+
+# OWN IGNORE
+crema-d/*
+
+*.wav
