@@ -113,3 +113,4 @@ outputs/*
 crema-d/*
 
 *.wav
+*.npy
