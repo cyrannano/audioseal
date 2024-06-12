@@ -114,3 +114,5 @@ crema-d/*
 
 *.wav
 *.npy
+
+*generated_audio*
